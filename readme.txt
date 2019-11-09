@@ -1,4 +1,4 @@
-使用python 3运行
+使用python 3运行,涉及文件操作，但是我不太喜欢用re模块，所以没有使用，反之采用文件导入方式
 1. 将身份证列表存到data/ID_list.txt中；
 2. 执行 python init_pkl.py 生成数据字典
 3. 执行 python analysis_data.py 执行程序
